@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Sakız",
+    "price": 0.5,
+    "image": "https://productimages.hepsiburada.net/s/31/375/10334709252146.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Kola",
+    "price": 6,
+    "image": "https://ayb.akinoncdn.com/products/2019/01/18/1796/b792f041-5479-4d5f-a74e-233d5da474bc_size780x780_quality60_cropCenter.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Ayakkabı",
+    "price": 400,
+    "image": "https://aknbarcin.b-cdn.net/products/2021/02/04/131529/3e2f3bae-16eb-498f-b826-11f4dc47d747.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Saat",
+    "price": 2000,
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MX8F2_VW_PF+watch-44-alum-silver-nc-nike6s_VW_PF_WF_CO_GEO_TR?wid=1400&hei=1400&trim=1,0&fmt=p-jpg&qlt=95&.v=1566419714169,1618336811000"
+  },
+  {
+    "id": 5,
+    "title": "Motor",
+    "price": 100000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1KWF209tZ5r6n2PwkzetmvoPE_DWFt8fjiOi8wm7PPs5nRxdo6vauxFQ6Q4HG7pd5HOY&usqp=CAU"
+  },
+  {
+    "id": 6,
+    "title": "Araba",
+    "price": 80000,
+    "image": "http://2.bp.blogspot.com/-yKkdV3LrfZI/U_Yo6LavGfI/AAAAAAAAFw0/r09SHGqDFg0/s1600/10632616_708928852494858_1700661206402868877_n.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Lüks Araba",
+    "price": 1000000,
+    "image": "https://besthqwallpapers.com/Uploads/15-9-2020/141359/thumb-ferrari-california-exterior-ferrari-on-white-background-silver-sports-coupe-italian-sports-cars.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Ev",
+    "price": 300000,
+    "image": "https://st.depositphotos.com/1001877/1897/i/950/depositphotos_18972191-stock-photo-house-on-white-background.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Apartman",
+    "price": 900000,
+    "image": "https://turkishclassified.com/storage/files/tr/569/thumb-816x460-2063f04c0a27d10e378166eaae18d68a.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Yalı",
+    "price": 1200000,
+    "image": "https://iatkv.tmgrup.com.tr/f069ed/0/0/0/0/1063/780?u=https%3A%2F%2Fitkv.tmgrup.com.tr%2F2021%2F01%2F21%2Fher-sey-bir-fotografla-basladi-haci-sabancinin-bahcesinde-yaptigi-sporla-gundem-olan-yali-urkutuyor-1611177169269.jpeg&mw=600"
+  },
+  {
+    "id": 11,
+    "title": "Yat",
+    "price": 2000000,
+    "image": "https://i.pinimg.com/originals/ed/e4/9f/ede49f442b9172ecad648a2359b5c09c.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Uçak",
+    "price": 1800000,
+    "image": "https://bikinijet.com/tr/img/jet-kiralama.jpg"
+  }
+]
