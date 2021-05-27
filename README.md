@@ -8,5 +8,5 @@
 ### `> yarn start`
 
 
-![image](./money-app.png)
+![image](./mg-money-app.png)
 
